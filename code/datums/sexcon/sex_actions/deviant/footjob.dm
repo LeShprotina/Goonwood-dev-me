@@ -1,4 +1,4 @@
-/*/datum/sex_action/footjob
+/datum/sex_action/footjob
 	name = "Jerk them off with feet"
 	check_same_tile = FALSE
 
@@ -53,4 +53,3 @@
 	if(target.sexcon.finished_check())
 		return TRUE
 	return FALSE
-*/

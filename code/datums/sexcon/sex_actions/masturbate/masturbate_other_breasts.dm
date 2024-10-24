@@ -1,4 +1,4 @@
-/*/datum/sex_action/masturbate_other_breasts
+/datum/sex_action/masturbate_other_breasts
 	name = "Rub their breasts"
 	check_same_tile = FALSE
 
@@ -34,4 +34,3 @@
 	if(target.sexcon.finished_check())
 		return TRUE
 	return FALSE
-*/

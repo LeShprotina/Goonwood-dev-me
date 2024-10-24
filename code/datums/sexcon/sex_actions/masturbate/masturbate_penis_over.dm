@@ -1,4 +1,4 @@
-/*/datum/sex_action/masturbate_penis_over
+/datum/sex_action/masturbate_penis_over
 	name = "Jerk over them"
 	check_same_tile = FALSE
 
@@ -41,4 +41,3 @@
 	if(user.sexcon.finished_check())
 		return TRUE
 	return FALSE
-*/

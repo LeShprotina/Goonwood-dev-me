@@ -1,4 +1,4 @@
-/*/datum/sex_action/cunnilingus
+/datum/sex_action/cunnilingus
 	name = "Suck their cunt off"
 
 /datum/sex_action/cunnilingus/shows_on_menu(mob/living/carbon/human/user, mob/living/carbon/human/target)
@@ -51,4 +51,3 @@
 	if(target.sexcon.finished_check())
 		return TRUE
 	return FALSE
-*/

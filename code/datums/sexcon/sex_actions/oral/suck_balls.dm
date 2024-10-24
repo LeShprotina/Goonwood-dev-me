@@ -1,4 +1,4 @@
-/*/datum/sex_action/suck_balls
+/datum/sex_action/suck_balls
 	name = "Suck their balls"
 	check_same_tile = FALSE
 
@@ -49,4 +49,3 @@
 	if(target.sexcon.finished_check())
 		return TRUE
 	return FALSE
-*/
